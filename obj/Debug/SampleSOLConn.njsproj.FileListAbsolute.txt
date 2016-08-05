@@ -1,0 +1,2 @@
+C:\Users\Sneh_132\Documents\Visual Studio 2015\Projects\SampleSOLConn\SampleSOLConn\obj\Debug\SampleSOLConn.njsprojResolveAssemblyReference.cache
+C:\Users\Sneh_132\Documents\Visual Studio 2015\Projects\SampleSOLConn\SampleSOLConn\bin\Microsoft.NodejsTools.WebRole.dll
